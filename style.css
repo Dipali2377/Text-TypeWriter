@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(
+    to right,
+    rgba(246, 99, 214, 0.667),
+    #9761ee,
+    #89d1f3
+  );
+}
+#write {
+  margin-top: 170px;
+
+  text-align: center;
+  text-shadow: 0 2px 4px white;
+  color: white;
+  padding: 20px;
+  padding-top: 50px;
+  line-height: 1.5;
+}
+
+button {
+  margin-left: 600px;
+  margin-top: 20px;
+  border: 1px solid gray;
+  font-size: 17px;
+  background-color: rgb(96, 21, 218);
+  color: white;
+  border-radius: 7px;
+  padding: 5px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  cursor: pointer;
+}
+.container {
+  height: 200px;
+  width: 300px;
+  background-color: black;
+  margin-left: 500px;
+  border-radius: 5px;
+  box-shadow: 0 8px 8px 0 white;
+}
