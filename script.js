@@ -1,6 +1,6 @@
 var i = 0;
 var txt =
-  " Hello Everyone...My Name is Dipali Magar.Dedicated and Efficient Full Stack Developer.";
+  " Hi there...My Name is Dipali Magar.Dedicated and Efficient Full Stack Developer.";
 var speed = 100;
 
 function Writing() {
